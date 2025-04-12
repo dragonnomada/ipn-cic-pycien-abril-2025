@@ -9,3 +9,7 @@
 ## Sesión 1
 
 https://colab.research.google.com/drive/1fKmSajGtH7rLxuWXHP6cweCElI4clQrM?usp=sharing
+
+## Sesión 2
+
+https://colab.research.google.com/drive/1Oz8oXkD7OAwOgrm_GGjM8KTUonUOFfKU?usp=sharing
