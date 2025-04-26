@@ -13,3 +13,7 @@ https://colab.research.google.com/drive/1fKmSajGtH7rLxuWXHP6cweCElI4clQrM?usp=sh
 ## Sesión 2
 
 https://colab.research.google.com/drive/1Oz8oXkD7OAwOgrm_GGjM8KTUonUOFfKU?usp=sharing
+
+## Sesión 3
+
+https://colab.research.google.com/drive/1y2lnVVaGvgoYjZBsfpcPNLXnPmEFBUEC?usp=sharing
