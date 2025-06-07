@@ -25,3 +25,15 @@ https://colab.research.google.com/drive/1MXhAChZE0UCREbRZIlS5hrS2FKKTRFKg?usp=sh
 ## Sesión 5
 
 https://colab.research.google.com/drive/16eBboqqN-ztIiKSjcdak1Xat2-Q3V-2w?usp=sharing
+
+## Sesión 6
+
+Práctica y Proyecto Final (sin libreta)
+
+## Sesión 7
+
+(Pendiente)
+
+## Examen Final
+
+https://colab.research.google.com/drive/1y5b520wG54Wq45wWtj6vwcaII35WjGLx?usp=sharing
