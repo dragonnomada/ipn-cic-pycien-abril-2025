@@ -32,7 +32,7 @@ Práctica y Proyecto Final (sin libreta)
 
 ## Sesión 7
 
-(Pendiente)
+https://colab.research.google.com/drive/1sYjWoVjd70n4kslPFO7dJ1tRsSqMYK-v?usp=sharing
 
 ## Examen Final
 
